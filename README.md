@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @rohanfaiyazkhan
 
-I am a Masters in Computing student at Queen’s University in Kingston, Ontario, Canada and expecting to graduate in January 2023. 
+I recently graduated with a Masters in Computing from Queen’s University in Kingston, Ontario, Canada in January 2023. 
 
 Previously I have worked as a Frontend web developer for [Xen Works](https://xen.works/) and have 2 years of industry experience in this role. 
 Over my early career I have had the fortune of working under brilliant team leads who have drilled into me the importance of clean, readable and 
